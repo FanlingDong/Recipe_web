@@ -1,0 +1,36 @@
+week1
+Group formed, I join the Jira and create Github accounts.
+We discussed all projects and chose project 1 finally.
+We also divided the group roles, i will be a backend developer.
+
+week2
+We divided the proposal tasks, and I wrote the user story and novel functions of the proposal.
+
+week3
+we submitted proposal and edited the sprint plan.
+I am working on the backend development of the project.
+
+week4
+As a backend develpoer, i implemented some recipes APIs including: create, edit,
+get recipes details, delete, get all published recipes, view any published recipes details.
+And I have tested all APIs with Insomnia.
+
+week5
+This week, I finished Retrospective A file.
+
+week6
+I modify some returned fields of recipes APIs， font end will be more easier to develop.
+
+week7
+I finished and modified the Retrospective B file. I worked with Jieping Wu to change the backend server
+and chose AWS and re-deployed our project.
+
+week8
+I implemented the recommandation api， and tested it.
+
+week9
+We modified recommandation API and took a meeting to assign works of final presentation and report.
+
+week10
+I completed part of the report content and completed the layout of the entire report.
+We did our final demo and submitted all documents.

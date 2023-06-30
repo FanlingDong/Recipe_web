@@ -1,0 +1,41 @@
+Week1
+We started a group called Vite, and then we joined the Jira and Github teams.
+Then we discussed everyone's division of labor, and I was in charge of front-end development.
+
+Week2
+We discussed the project direction and scheme, and then we needed to write a proposal.
+I was responsible for writing the background of the proposal and explaining the background and positioning of the product.
+
+Week3
+We wrote the proposal and submitted it.
+We started writing the content of Sprint1, putting together the framework of the front and back ends,
+and implementing the basic routing, interface, and other functions.
+
+Week4
+I wrote a feature for users to upload and modify their avatars, but the effect was not very good.
+We refactored this part later.
+
+Week5
+We completed the Demo A and Retrospective A. Our tutor gave us some suggestions for our work of Sprint 1 in the first demonstration.
+We needed to check the email and the difficulty of password.
+At the same time, we also needed to disable the user's permission to change their nicknames.
+
+Week6
+I built the framework of the DetailPage and Public/Search recipes part.
+I started to develop the function of 'showing the public/my recipe lists' and 'showing the detail of the public/my recipes' on the front end.
+
+Week7
+In this week I developed a search recipe function.
+We prepared for the Demo B.
+
+Week8
+We completed the Demo B and Retrospective B. We migrated the serve of back end to make the Apis acquisition faster.
+And I fixed some bugs of search/detail.
+
+Week9
+I finished the development of 'showing recommended recipes' in the detail pages, and I fixed all bugs of my part.
+
+Week10
+We integrated our code and deployed our front end, back end and database systems on the AWS cloud.
+We finished the final presentation, wrote the report and submitted the report and code.
+Thank you to every one of my teammates! Happy Ending!

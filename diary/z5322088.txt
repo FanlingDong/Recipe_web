@@ -1,0 +1,59 @@
+Week 1
+Group formed. I created the Jira & GitHub accounts.
+We discussed all projects and chose Project 1 Meal Recommendation System.
+We also divided the group roles, I am the admin of our group as well as a frontend developer.
+
+Week 2
+We talked about the basic and novel functionalities and assigned the proposal tasks.
+I identified and wrote the Sprint schedule of the proposal and
+defined the user stories of Sprint 1 and the Product in Jira.
+I also set up the frontend frame using React in GitHub.
+
+Week 3
+We finished the proposal and submitted it. We started the Sprint 1 and planned to
+finish it by the end of week 4. We also set up some necessary coding environments.
+
+Week 4
+I finished the register, login and logout functions. I also finished the editing profile
+and changing password functions. We are close to complete the Sprint 1.
+However, there are still some small bugs, and we plan to fix them in Week 5.
+
+Week 5
+We did the Progressive Demo A in lab time and our tutor gave us some advices and feedback.
+We also did the Retrospective A.
+According to the advices and feedback from tutor, I fixed the bugs in Sprint 1, including UI/UX
+and functions. I also changed some file structure and code structure.
+We started the Sprint 2 and I began to develop the functions of recipes.
+
+Week 6
+It was a flexible week. I began to develop the frontend pages of 'create', 'edit'
+and 'delete' recipe functions.
+I constructed the frame for these three functions and also developed some basic components.
+
+Week 7
+I finished the frontend pages of 'create', 'edit' and 'delete' recipe functions.
+We also did some necessary tests and ended the Sprint 2.
+We prepared for the Progressive Demo B.
+
+Week 8
+We did the Progressive Demo B in lab time and our tutor gave us some advices and feedback.
+We also did the Retrospective B after the lab time, and we started the Sprint 3.
+We assigned the tasks in Sprint 3 and I also fixed some bugs in Sprint 2.
+We planned to finish the Sprint 3 before the lab time in Week 10.
+I began to develop the frontend pages of 'the most popular contributors'
+and 'the hottest recipes' functions.
+
+Week 9
+I finished the ranking function and tested it.
+We began to integrate all the code and the whole system.
+We began to test the whole system and fix the bugs we found.
+We began to write the documents about the introduction of our system and how to use it.
+We began the rehearsal for the final demo.
+I began to assign the tasks of writing the report.
+
+Week 10
+We integrated our code and deployed our system on AWS cloud.
+We did our final demo.
+We wrote our report and submitted it.
+We submitted our code.
+Happy Ending!

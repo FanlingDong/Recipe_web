@@ -1,0 +1,39 @@
+week1
+We formed the group, and I joined Jira and created GitHub accounts.
+We discussed everyone's role and the group name.
+I am responsible for front-end development and UI/UX design.
+
+week2
+We discussed proposal, and I'm in charge of Interface and Flow Diagrams and Front-end Architecture.
+I sorted out the logic of the page and drew the UI design drawings.
+
+week3
+We submitted the proposal and started the Sprint 1.
+We set the environments of the project.
+
+week4
+I built the framework of the homePage. Some components are wrapped such as Header, Login and Register. We also fixed some bugs together.
+
+week5
+We finished our demo A and Retrospective A. In demo A, tutor have gave us some feedback. We need to validate the email and password and fix some bugs.
+
+week6
+I started the front end develop of 'like/unlike', 'collect/uncollect', 'comment' functions.
+
+week7
+I tested the functions of 'like/unlike', 'collect/uncollect' and 'comment'.
+I also completed the work of joint development with the back-end team members.
+
+week8
+We finished our demo B and Retrospective B.
+We fixed the bugs we had in the last few weeks.
+The speed of the server was too slow, so we decided to replace the server after communication, and after the replacement, the speed was significantly improved.
+I started the front end develop of 'subscribe/unsubscribe', 'feed message' functions.
+
+week9
+Improved the display of likes/dislikes, favorites/unfavorites, comments, subscriptions, etc. when not logged in.
+Integrate the code and rehearse for the final demo.
+
+week10
+We integrated our code and deployed our system on AWS cloud. We finished our project and the final presentation.
+Happy ending~

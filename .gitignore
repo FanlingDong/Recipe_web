@@ -1,0 +1,5 @@
+node_modules
+/backend/exam_api/__pycache__
+.idea
+.vscode
+.DS_Store

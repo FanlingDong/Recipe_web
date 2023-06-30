@@ -1,0 +1,38 @@
+Week 1
+We made a group and all of us joined the Jira and Github teams.
+We talked about task assignment and I would be responsble for the development of the back-end part.
+
+Week 2
+We discussed the functions and database structure.
+Then, we talk about the scheme of the database and ensure what the back-end part contains in our project.
+I started to write the database tables structure.
+
+Week 3
+I started to write the User table and the api of User part.
+After that, I wrote the swagger document of them which would be convinient for fornt-end developers.
+
+Week 4
+I finished the User table and all the api of User part.
+Then, I deployed the back-end on my server which is convinient for front-end developers because they would not have to set up the backend environment locally.
+
+Week 5
+I discussed with my back-end part member with the following tables' structures and the possible apis we needed in the future.
+I set up the new database after that.
+
+Week 6
+I finished the Comment and Like part Api.
+
+Week 7
+Start the content of sprint 3,discuss with group member how to do the subscribe, ranking and so on.
+After thinking for some time, write some test files and functions to test the subscribe, like and ranking.
+
+Week 8
+Finish the sprint 3 content but some bugs still existed, collecting the bugs and testing situation
+
+Week 9
+Fixed  all the bugs of subscribe, like, comment and ranking. All the functions are finished.
+Start to prepare presentation and report.
+
+Week 10
+I complete the User manual part of the report.
+Finish the demo and finish all the documents.
